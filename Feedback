@@ -1,0 +1,72 @@
+3 - Online Store Chain
+
+
+
+Members:
+
+Jean-Philippe Valois
+
+Brad St-John
+
+Tyler Lavergne
+
+Harrison Shirreff.
+
+
+
+1a Proposal Draft:
+
+
+
+Overall:  80/100
+
+
+
+General comments:
+
+
+
+Are you really going to setup PayPal?  If so, great. If not, could use Shopify..... (talk to me about this).
+
+
+
+The structure of the proposal is not as specified in the requirements (data, function, network, People, timing, motivation sections plus detailed schedule).
+
+
+
+Your schedule has a good level of detail, and the data model seems to be in good shape.
+
+
+
+Details:
+
+Data  => nice.  also note resource bundles and/or cookies, etc.
+
+
+
+
+
+Function =>  You have this well described throughout.
+
+
+
+Location/Network => servers on cloud is target?  mobile clients with browser, etc.
+
+
+
+People  => who does admin access?  What are admin functions?  
+
+
+
+Timing => was expecting the internal timing of the functions (e.g., live updates visible upon submission).  No delays.
+
+
+
+Motivation  -> What about privacy? 
+
+
+
+Project Plan => could use more detail re. what will be the vertical slice of the project that will be in each release.
+
+Try to finish features completely rather than just individual components.
+
